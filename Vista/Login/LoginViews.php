@@ -18,6 +18,7 @@ class LoginViews extends Views
         require_once __DIR__ . '/../Plantilla/Cabecera.php';
 
         echo "Hola pruebas";
+        echo "hehe";
 
         ?>
                 <form name="loginForm" class="form-horizontal login" method="post">
