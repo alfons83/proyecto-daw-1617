@@ -1,8 +1,8 @@
 <?php
 
 echo "Hola";
-echo "Hola3";
-echo "adios";
+echo "aDIOS";
+echo "hola otra vez";
 require_once __DIR__."/Vista/Login/Login.php";
 
 
